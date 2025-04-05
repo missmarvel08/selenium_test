@@ -1,0 +1,11 @@
+{
+  "browser": "chrome",
+  "baseUrl": "http://localhost:3000",
+  "timeout": 30000,
+  "headless": false,
+  "windowSize": {
+    "width": 1280,
+    "height": 800
+  },
+  "logLevel": "info"
+}
